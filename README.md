@@ -1,1 +1,4 @@
-Add this bot to your server [note: currently not availible] and it'll fetch prices from www.CardKingdom.com for the greatest card in Magic.
+[note: currently not online]
+
+Autototem fetches card and price data from CardKingdom after being triggered by the words "Avarice" or "Totem" are used in a message. 
+https://scryfall.com/card/5dn/104/avarice-totem
